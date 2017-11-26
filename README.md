@@ -46,7 +46,7 @@ V2ray控制脚本，向导式更改端口，加密方式，传输协议，享受
 ## 安装命令
 
 ```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/314051672/v2ay/master/install.sh && bash install.sh
+wget -N --no-check-certificate us.fdos.xin/install_v2ray.sh && bash install_v2ray.sh
 ```
 
 ## 升级命令
